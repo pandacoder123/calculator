@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Calculator, that is very useful!",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/fox.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Calculator",
+  "short_name": "Calculator",
+  "start_url": "/pwa-examples/a2hs/index.html"
+}
