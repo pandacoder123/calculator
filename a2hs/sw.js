@@ -5,7 +5,7 @@ self.addEventListener('install', (e) => {
       '/pwa-examples/a2hs/index.html',
       '/pwa-examples/a2hs/index.js',
       '/pwa-examples/a2hs/style.css',
-      '/pwa-examples/a2hs/images/fox.jpg',
+      '/pwa-examples/a2hs/icon/fox.jpg',
     ])),
   );
 });
